@@ -58,17 +58,17 @@ contact-management-app/
 
 ## 🧪 Testing the API
 
-You can test the routes using:
+- You can test the routes using:
 
-Postman
+- Postman
 
-Thunder Client (VS Code Extension)
+- Thunder Client (VS Code Extension)
 
 Example:
 
-Add Authorization header: Bearer <your_jwt_token>
+- Add Authorization header: Bearer <your_jwt_token>
 
-Use JSON body for POST/PUT requests
+- Use JSON body for POST/PUT requests
 
 ---
 
@@ -104,5 +104,6 @@ npm run dev
 ## 👨‍💻 Author
 
 Chetan Malviya
+
 
 Full Stack Developer | React.js | Node.js | Express.js | MongoDB
